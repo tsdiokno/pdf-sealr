@@ -5,8 +5,6 @@ PDF Sealr is a lightweight desktop app that flattens and watermarks PDFs — tur
 
 Built with **Python + Flet + PyMuPDF**, it’s designed for creators, designers, and professionals who need simple, reliable control over their exported PDFs — without the bloat.
 
----
-
 ## ✨ Features
 
 - 🪶 **Flatten PDFs** — remove layers, forms, and editing elements for final delivery  
@@ -15,8 +13,6 @@ Built with **Python + Flet + PyMuPDF**, it’s designed for creators, designers,
 - 🖼️ **Live preview** — see exactly how your watermark looks before exporting  
 - ⚡ **Bulk processing** — flatten multiple PDFs in one go  
 - 🧰 **Simple UI** — drag, drop, done  
-
----
 
 ## ⚙️ Installation
 
@@ -42,8 +38,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
 ## 📦 Build as an executable (optional)
 
 Use **PyInstaller** to package PDF Sealr as a standalone app.
@@ -55,15 +49,11 @@ pyinstaller --noconfirm --onefile --windowed --name "PDF Sealr" main.py
 
 Your executable will appear in the `dist/` folder.
 
----
-
 ## 🧠 Tech Stack
 
 * **[Flet](https://flet.dev)** — Flutter-inspired UI for Python
 * **[PyMuPDF](https://pymupdf.readthedocs.io)** — high-performance PDF rendering and manipulation
-* **[Pillow](https://python-pillow.org)** — watermark image generation and composition
-
----
+* **[Pillow](https://pypi.org/project/pillow/)** — watermark image generation and composition
 
 ## 💡 Vision
 
@@ -73,27 +63,19 @@ PDF Sealr helps you *finalize* those documents — compact, secure, and visually
 
 > “Your work deserves to be seen as finished.”
 
----
-
 ## 🧱 Roadmap
 
 * [ ] Persistent user settings
 * [ ] Multi-threaded batch mode
-
----
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Open a pull request or file an issue if you want to improve the tool.
 
----
-
 ## 🪪 License
 
 This project is licensed under the **GNU AFFERO GENERAL PUBLIC LICENSE** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🧑‍💻 Author
 
