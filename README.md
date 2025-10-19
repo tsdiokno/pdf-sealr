@@ -14,6 +14,18 @@ Built with **Python + Flet + PyMuPDF**, it’s designed for creators, designers,
 - ⚡ **Bulk processing** — flatten multiple PDFs in one go  
 - 🧰 **Simple UI** — drag, drop, done  
 
+## 🔍 Feature Comparison
+
+| Feature | Software A | Software B | Software C | **PDF Sealr** |
+|----------|-------------|-------------|-------------|---------------|
+| **Flatten PDFs** | ✅ Yes — separate process | ❌ No | ✅ Yes — separate mode | ✅ Yes — same process as watermarking |
+| **Add Watermarks** | ❌ No | ✅ Yes | ✅ Yes — separate mode | ✅ Yes — same process as flattening |
+| **One-Step Workflow** | ❌ No | ❌ No | ❌ No | ✅ Yes — flatten and watermark in one step |
+| **User Control** | ⚠️ Limited | ⚠️ Limited | ⚙️ Moderate | 🎛️ Full — size, opacity, padding, rotation |
+| **Ease of Use** | 🧩 Complex | 🪶 Basic | ⚙️ Mode switching | 💡 Simple drag-and-drop UI |
+
+> **PDF Sealr** combines flattening and watermarking into one clean, unified workflow — no switching modes, no duplicate exports, just a sealed PDF ready to share.
+
 ## ⚙️ Installation
 
 ### Prerequisites
